@@ -1,0 +1,15 @@
+C:\Users\noid3\source\repos\np_Lesson3\cd_TcpClient\bin\Debug\net6.0\cs_TcpClient.exe
+C:\Users\noid3\source\repos\np_Lesson3\cd_TcpClient\bin\Debug\net6.0\cs_TcpClient.deps.json
+C:\Users\noid3\source\repos\np_Lesson3\cd_TcpClient\bin\Debug\net6.0\cs_TcpClient.runtimeconfig.json
+C:\Users\noid3\source\repos\np_Lesson3\cd_TcpClient\bin\Debug\net6.0\cs_TcpClient.dll
+C:\Users\noid3\source\repos\np_Lesson3\cd_TcpClient\bin\Debug\net6.0\ref\cs_TcpClient.dll
+C:\Users\noid3\source\repos\np_Lesson3\cd_TcpClient\bin\Debug\net6.0\cs_TcpClient.pdb
+C:\Users\noid3\source\repos\np_Lesson3\cd_TcpClient\obj\Debug\net6.0\cs_TcpClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noid3\source\repos\np_Lesson3\cd_TcpClient\obj\Debug\net6.0\cs_TcpClient.AssemblyInfoInputs.cache
+C:\Users\noid3\source\repos\np_Lesson3\cd_TcpClient\obj\Debug\net6.0\cs_TcpClient.AssemblyInfo.cs
+C:\Users\noid3\source\repos\np_Lesson3\cd_TcpClient\obj\Debug\net6.0\cs_TcpClient.csproj.CoreCompileInputs.cache
+C:\Users\noid3\source\repos\np_Lesson3\cd_TcpClient\obj\Debug\net6.0\cs_TcpClient.dll
+C:\Users\noid3\source\repos\np_Lesson3\cd_TcpClient\obj\Debug\net6.0\ref\cs_TcpClient.dll
+C:\Users\noid3\source\repos\np_Lesson3\cd_TcpClient\obj\Debug\net6.0\cs_TcpClient.pdb
+C:\Users\noid3\source\repos\np_Lesson3\cd_TcpClient\obj\Debug\net6.0\cs_TcpClient.genruntimeconfig.cache
+C:\Users\noid3\source\repos\np_Lesson3\cd_TcpClient\obj\Debug\net6.0\cs_TcpClient.csproj.AssemblyReference.cache

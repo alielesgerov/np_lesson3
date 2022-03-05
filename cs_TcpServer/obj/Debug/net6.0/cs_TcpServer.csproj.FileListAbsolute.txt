@@ -1,0 +1,15 @@
+C:\Users\noid3\source\repos\np_Lesson3\cs_TcpServer\bin\Debug\net6.0\cs_TcpServer.exe
+C:\Users\noid3\source\repos\np_Lesson3\cs_TcpServer\bin\Debug\net6.0\cs_TcpServer.deps.json
+C:\Users\noid3\source\repos\np_Lesson3\cs_TcpServer\bin\Debug\net6.0\cs_TcpServer.runtimeconfig.json
+C:\Users\noid3\source\repos\np_Lesson3\cs_TcpServer\bin\Debug\net6.0\cs_TcpServer.dll
+C:\Users\noid3\source\repos\np_Lesson3\cs_TcpServer\bin\Debug\net6.0\ref\cs_TcpServer.dll
+C:\Users\noid3\source\repos\np_Lesson3\cs_TcpServer\bin\Debug\net6.0\cs_TcpServer.pdb
+C:\Users\noid3\source\repos\np_Lesson3\cs_TcpServer\obj\Debug\net6.0\cs_TcpServer.csproj.AssemblyReference.cache
+C:\Users\noid3\source\repos\np_Lesson3\cs_TcpServer\obj\Debug\net6.0\cs_TcpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noid3\source\repos\np_Lesson3\cs_TcpServer\obj\Debug\net6.0\cs_TcpServer.AssemblyInfoInputs.cache
+C:\Users\noid3\source\repos\np_Lesson3\cs_TcpServer\obj\Debug\net6.0\cs_TcpServer.AssemblyInfo.cs
+C:\Users\noid3\source\repos\np_Lesson3\cs_TcpServer\obj\Debug\net6.0\cs_TcpServer.csproj.CoreCompileInputs.cache
+C:\Users\noid3\source\repos\np_Lesson3\cs_TcpServer\obj\Debug\net6.0\cs_TcpServer.dll
+C:\Users\noid3\source\repos\np_Lesson3\cs_TcpServer\obj\Debug\net6.0\ref\cs_TcpServer.dll
+C:\Users\noid3\source\repos\np_Lesson3\cs_TcpServer\obj\Debug\net6.0\cs_TcpServer.pdb
+C:\Users\noid3\source\repos\np_Lesson3\cs_TcpServer\obj\Debug\net6.0\cs_TcpServer.genruntimeconfig.cache
